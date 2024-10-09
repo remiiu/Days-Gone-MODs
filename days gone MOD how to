@@ -1,0 +1,20 @@
+
+
+Navigate to the directory.
+\Days Gone\BendGame\Content
+
+Find the
+sfpaks
+ folder and rename it to
+sfpakss
+
+Next, go to the directory.
+%localappdata%\BendGame\Saved
+
+Move the cooked folder from the downloaded zip into the directory.
+
+
+Pour les mods en .pak
+mettre dans
+Install in your paks folder in AppData\Local\BendGame\Saved\Paks.
+
